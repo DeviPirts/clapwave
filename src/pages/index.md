@@ -4,7 +4,7 @@ title: Awaken Music Within
 image: /img/home-jumbotron.jpg
 heading: Awaken Music Within
 subheading: Browse and get free software tools, samples, loops and more.
-mainpitch:
+<!--- mainpitch:
   title: Why Kaldi
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+-->

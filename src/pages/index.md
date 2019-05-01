@@ -3,9 +3,9 @@ templateKey: index-page
 title: Awaken Music Within
 image: /img/home-jumbotron.jpg
 heading: Awaken Music Within
-subheading: Browse and get free software tools, samples, loops and more
+subheading: Browse and get free software tools, samples, loops and more.
 mainpitch:
-  title: Why Clapwave
+  title: Why Kaldi
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
